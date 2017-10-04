@@ -1,0 +1,41 @@
+#section01{
+	height: 50px;
+	background-color: #222222;
+}
+
+#section02{
+	background-color: #9ACD32;
+}
+
+.sectionedit{
+padding-top:70px;
+padding-bottom: 70px; 
+}
+#section02 h1,#section02 p{
+	color: #ADFF2F;
+}
+#section02 h1{
+	font-size: 5em;
+}
+#section02 p{
+	font-size: 1.5em;
+}
+#section03 h1{
+	padding:20px;
+	border-bottom: 1px solid #777777;
+}
+
+#section03 p{
+	color: #777777;
+}
+
+#section04{
+	padding-top: 75px;
+	padding-bottom: 75px;
+	background-color: #DAA520;
+}
+
+#section5 li{
+list-style-type: none;
+}
+
